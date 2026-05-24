@@ -24,7 +24,7 @@ Aplicar conceitos teóricos e práticos de segurança em ambientes controlados, 
 
 ## Ferramentas Utilizadas
 
-* Gobuster
+* Dirb
 * TryHackMe Linux VM
 
 ## Evidências
